@@ -95,5 +95,5 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 ## Unicorn
 
 Swift and Objective-C, modified SpritKit demo with spritesheet and physics.
-- (Swift)[https://github.com/nanjizal/UnicornSwift2]
-- (Obj-C)[https://github.com/nanjizal/unicornObjC]
+- [Swift](https://github.com/nanjizal/UnicornSwift2)
+- [Obj-C](https://github.com/nanjizal/unicornObjC)
