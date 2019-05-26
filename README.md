@@ -58,7 +58,11 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 ## justDrawing
 
-[justDrawing](https://github.com/nanjizal/justDrawing), setup as abstract layer for drawing, can be used with **trilateral** and **justPath** to draw to canvas or pixels.
+[justDrawing](https://github.com/nanjizal/justDrawing) setup for drawing, can be used with **trilateral** and **justPath** to draw to canvas or pixels.
+
+## justPath
+
+[justPath](https://github.com/nanjizal/justPath) justPath is quick parsing of a string from an svg path.
 
 ## folder
 
