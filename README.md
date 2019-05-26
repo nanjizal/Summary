@@ -1,4 +1,4 @@
-# Summary
+# Summary - Nanjizal / Justinfront / JLM / Justin
 
 Able [fine artist with watercolour](https://github.com/nanjizal/paintings/blob/master/index.md) and teaching experiance, third generation watercolour teacher. Also able coder with some abstract math background see libraries below:
 
@@ -56,6 +56,10 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
   
 [Letters](https://github.com/nanjizal/Letters) Canvas letter transformations. 
 
+## justDrawing
+
+[justDrawing](https://github.com/nanjizal/justDrawing), setup as abstract layer for drawing, can be used with **trilateral** and **justPath** to draw to canvas or pixels.
+
 ## Ported to Haxe
 
 - [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
@@ -63,5 +67,7 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 - [Spiro2019](https://github.com/nanjizal/hxSpiro2019) curve drawing library now MIT licensed.
 - [Triangulations](https://github.com/nanjizal/triangulations) academic triangulation library ( too slow for practical use? ), with constrained Delaunay Triangulation showing Ruppert's Delaunay refine algorithm for quality triangulation.
 - [hxRectPack](https://github.com/nanjizal/hxRectPack2D) rectangle packing algorithm.
+- [pixelDrawing](https://github.com/nanjizal/pixelDrawing/tree/master/src/pixelDrawing) library for bresenham drawing with pixels.
 - [Constraints Demo](https://github.com/nanjizal/constraints) illustrating use of simple constraints.
 - [Mandelbrot Demo](https://github.com/nanjizal/Mandelbrot) rendering with Luxe and Kha.
+- [Fracs](https://github.com/nanjizal/fracs) fast decimal to fraction approximations.
