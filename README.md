@@ -48,3 +48,10 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 - [Constraints Demo](https://github.com/nanjizal/constraints) illustrating use of simple constraints.
 - [Mandelbrot Demo](https://github.com/nanjizal/Mandelbrot) rendering with Luxe and Kha.
 
+# Htmlhelper
+
+[htmlHelper](https://github.com/nanjizal/htmlHelper) useful library for setting up basic pure code web projects, such as Canvas , WebGL or SVG.
+
+# hxTShopify
+
+[Simple REST api for Shopify](https://github.com/nanjizal/hxTShopify/)
