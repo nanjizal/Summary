@@ -29,3 +29,13 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 - Moving to my own MIT based matrix/math/geom library [geom](https://github.com/nanjizal/geom/), adding some unit testing to geom as library evolves.
 
+# Ported to Haxe
+
+- [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
+- [JSGL / CanvasImageTriangles]( https://nanjizal.github.io/canvasImageTriangle/bin/index.html?update=2 ) Canvas 3D renderer.
+- [Spiro2019](https://github.com/nanjizal/hxSpiro2019) curve drawing library now MIT licensed.
+- [Triangulations](https://github.com/nanjizal/triangulations) academic triangulation library ( too slow for practical use? ), with constrained Delaunay Triangulation showing Ruppert's Delaunay refine algorithm for quality triangulation.
+- [hxRectPack](https://github.com/nanjizal/hxRectPack2D) rectangle packing algorithm.
+- [Constraints Demo](https://github.com/nanjizal/constraints) illustrating use of simple constraints.
+- [Mandelbrot Demo](https://github.com/nanjizal/Mandelbrot)
+
