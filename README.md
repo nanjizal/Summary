@@ -29,6 +29,15 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 - Moving to my own MIT based matrix/math/geom library [geom](https://github.com/nanjizal/geom/), adding some unit testing to geom as library evolves.
 
+# JigsawX
+
+[JigswaX](https://github.com/nanjizal/JigsawX), is a library setup for generation jigsaw puzzles.  You can set the number of rows columns and sizes.  Support for Javascript Canvas/Div, Kha WebGL/c++, Flash, NME/OpenFL c++.
+
+- [Canvas/Div](https://rawgit.com/nanjizal/JigsawX/master/bin/JigsawDivtastic.html)
+- [java swing/awt jar](https://github.com/nanjizal/JigsawX/blob/master/bin/JigsawxJava.jar) download to try
+- [Mac NME/OpenFL](https://github.com/nanjizal/JigsawX/tree/master/bin/Jigsawx.app/Contents) demo download to try
+- [WebGL](https://nanjizal.github.io/TrilateralBazaar/jigsawX/bin/) mouse down <- -> for rotation.
+
 # Ported to Haxe
 
 - [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
@@ -37,5 +46,5 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 - [Triangulations](https://github.com/nanjizal/triangulations) academic triangulation library ( too slow for practical use? ), with constrained Delaunay Triangulation showing Ruppert's Delaunay refine algorithm for quality triangulation.
 - [hxRectPack](https://github.com/nanjizal/hxRectPack2D) rectangle packing algorithm.
 - [Constraints Demo](https://github.com/nanjizal/constraints) illustrating use of simple constraints.
-- [Mandelbrot Demo](https://github.com/nanjizal/Mandelbrot)
+- [Mandelbrot Demo](https://github.com/nanjizal/Mandelbrot) rendering with Luxe and Kha.
 
