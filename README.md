@@ -60,6 +60,14 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 [justDrawing](https://github.com/nanjizal/justDrawing), setup as abstract layer for drawing, can be used with **trilateral** and **justPath** to draw to canvas or pixels.
 
+## folder
+
+[folder](https://github.com/nanjizal/folder) file and folder helpers for use with Haxe when processing images, uses hxPixels and format.
+
+## folderNode
+
+[folderNode](https://github.com/nanjizal/folderNode) folderNode provides helpers for working with Node, files and folders.
+
 ## Ported to Haxe
 
 - [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
