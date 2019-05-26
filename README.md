@@ -91,3 +91,9 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 - [Constraints Demo](https://github.com/nanjizal/constraints) illustrating use of simple constraints.
 - [Mandelbrot Demo](https://github.com/nanjizal/Mandelbrot) rendering with Luxe and Kha.
 - [Fracs](https://github.com/nanjizal/fracs) fast decimal to fraction approximations.
+
+## Unicorn
+
+Swift and Objective-C, modified SpritKit demo with spritesheet and physics.
+- (Swift)[https://github.com/nanjizal/UnicornSwift2]
+- (Obj-C)[https://github.com/nanjizal/unicornObjC]
