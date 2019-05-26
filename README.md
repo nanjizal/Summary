@@ -82,6 +82,7 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 ## Ported to Haxe
 
+- [hxDaedalus]( http://github.com/hxDaedalus ) ported with Azarfe7.
 - [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
 - [JSGL / CanvasImageTriangles]( https://nanjizal.github.io/canvasImageTriangle/bin/index.html?update=2 ) Canvas 3D renderer.
 - [Spiro2019](https://github.com/nanjizal/hxSpiro2019) curve drawing library now MIT licensed.
