@@ -2,7 +2,7 @@
 
 Able [fine artist with watercolour](https://github.com/nanjizal/paintings/blob/master/index.md) and teaching experiance, third generation watercolour teacher. Also able coder with some abstract math background see libraries below:
 
-# Trilateral
+## Trilateral
 
 [Trilateral](https://github.com/nanjizal/Trilateral), a MIT licensed library for rendering 2D vectors with shaders.
 Demos below are web based, but all can be compiled with haxe toolkits to c++ or other targets.
@@ -29,7 +29,7 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 - Moving to my own MIT based matrix/math/geom library [geom](https://github.com/nanjizal/geom/), adding some unit testing to geom as library evolves.
 
-# JigsawX
+## JigsawX
 
 [JigswaX](https://github.com/nanjizal/JigsawX), is a library setup for generation jigsaw puzzles.  You can set the number of rows columns and sizes.  Support for Javascript Canvas/Div, Kha WebGL/c++, Flash, NME/OpenFL c++.
 
@@ -38,7 +38,15 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 - [Mac NME/OpenFL](https://github.com/nanjizal/JigsawX/tree/master/bin/Jigsawx.app/Contents) demo download to try
 - [WebGL](https://nanjizal.github.io/TrilateralBazaar/jigsawX/bin/) mouse down <- -> for rotation.
 
-# Ported to Haxe
+## Htmlhelper
+
+[htmlHelper](https://github.com/nanjizal/htmlHelper) useful library for setting up basic pure code web projects, such as Canvas , WebGL or SVG.
+
+## hxTShopify
+
+[Simple REST api for Shopify](https://github.com/nanjizal/hxTShopify/)
+
+## Ported to Haxe
 
 - [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
 - [JSGL / CanvasImageTriangles]( https://nanjizal.github.io/canvasImageTriangle/bin/index.html?update=2 ) Canvas 3D renderer.
@@ -47,11 +55,3 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 - [hxRectPack](https://github.com/nanjizal/hxRectPack2D) rectangle packing algorithm.
 - [Constraints Demo](https://github.com/nanjizal/constraints) illustrating use of simple constraints.
 - [Mandelbrot Demo](https://github.com/nanjizal/Mandelbrot) rendering with Luxe and Kha.
-
-# Htmlhelper
-
-[htmlHelper](https://github.com/nanjizal/htmlHelper) useful library for setting up basic pure code web projects, such as Canvas , WebGL or SVG.
-
-# hxTShopify
-
-[Simple REST api for Shopify](https://github.com/nanjizal/hxTShopify/)
