@@ -46,6 +46,12 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 [Simple REST api for Shopify](https://github.com/nanjizal/hxTShopify/)
 
+## Puzzles games
+
+  - [jigsaw](/README.md#JigsawX)
+  - [tetris](https://github.com/nanjizal/PolyominoTriangles)
+  - [flip](https://github.com/nanjizal/tryflipspin)  
+
 ## Ported to Haxe
 
 - [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
