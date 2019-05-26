@@ -76,6 +76,10 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 [Character5x7](https://github.com/nanjizal/Character5x7) shader demo of 5x7 matrix character GPU rendering.
 
+## fullK
+
+[fullK](https://nanjizal.github.io/fullK/bin/) demo of creating basic components in Kha.
+
 ## Ported to Haxe
 
 - [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
