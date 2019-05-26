@@ -72,6 +72,10 @@ Demos below are web based, but all can be compiled with haxe toolkits to c++ or 
 
 [folderNode](https://github.com/nanjizal/folderNode) folderNode provides helpers for working with Node, files and folders.
 
+## Character5x7
+
+[Character5x7](https://github.com/nanjizal/Character5x7) shader demo of 5x7 matrix character GPU rendering.
+
 ## Ported to Haxe
 
 - [PolyK]( https://github.com/nanjizal/hxPolyK ) light weight basic trianglation library.
